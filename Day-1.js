@@ -1,4 +1,4 @@
-// Day-1 of 30days of javascript challenge
+// Day-1 of 30days of javascript challenge --(abdulwajeed.ai.ml@gmail.com)
 
 var num = 9848;
 // console.log(num)
