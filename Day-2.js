@@ -1,3 +1,4 @@
+//  abdulwajeed.ai.dev@gmail.com
 let val_1 = 3;
 let val_2 = 6;
 // console.log(val_1 + val_2) // Addition 3+6 = 9
